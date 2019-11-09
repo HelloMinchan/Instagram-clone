@@ -1,2 +1,2 @@
-# instagram-clone
+# Instagram-clone
 React Native Clone Coding
